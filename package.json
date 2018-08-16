@@ -1,7 +1,7 @@
 {
-  "name": "task-13.5",
+  "name": "learning-node.js-1",
   "version": "1.0.0",
-  "description": "Npm learning",
+  "description": "node.js learning",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dobi01/task-13.5.git"
+    "url": "https://github.com/dobi01/learning-node.js-1.git"
   },
   "author": "Dobi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dobi01/task-13.5/issues"
+    "url": "https://github.com/dobi01/learning-node.js-1/issues"
   },
-  "homepage": "https://github.com/dobi01/task-13.5#readme",
+  "homepage": "https://github.com/dobi01/learning-node.js-1#readme",
   "dependencies": {
     "colors": "^1.1.2"
   }
